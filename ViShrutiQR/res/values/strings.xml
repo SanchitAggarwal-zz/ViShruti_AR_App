@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViShrutiQR</string>
+    <string name="hello_world">Add path to the floor</string>
+    <string name="render_floormap">Render Floormap</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter the Source</string>
+    <string name="edit_message1">Enter the Destination</string>
+    <string name="button_send">Start</string>
+    <string name="spinner_title">Select Path</string> 
+    
+</resources>
